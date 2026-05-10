@@ -1,0 +1,6 @@
+{
+  "name": "WireGuard Proxy",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {},
+  "postCreateCommand": "bash setup.sh"
+}
